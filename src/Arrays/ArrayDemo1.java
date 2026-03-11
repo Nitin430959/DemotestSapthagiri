@@ -7,7 +7,7 @@ public class ArrayDemo1 {
         System.out.println(arr1[1]);//20
 
         //      System.out.println(arr1); //Wrong way
-        // printin arr1
+        // printing arr1
         for (int i = 0; i < arr1.length; i++) {
             System.out.print(arr1[i] + " "); // 10,20,30,40,50
         }
