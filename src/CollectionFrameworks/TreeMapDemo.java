@@ -6,7 +6,7 @@ public class TreeMapDemo {
     public static void main(String[] args){
         TreeMap<Integer,String>map=new TreeMap<>();
 
-        map.put(3,"c");t
+        map.put(3,"c");
         map.put(1,"a");
         map.put(2,"b");
         map.put(4,"d");
